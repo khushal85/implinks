@@ -1,0 +1,21 @@
+
+  a:link {
+  margin-bottom: 50px;
+  }
+  a:hover {
+  color: hotpink;
+   }
+.implink{
+  font-family: 'Dosis', sans-serif;
+
+  padding-bottom: 5px;
+    font-size: 1.6em !important;
+     background-color: #F7F5F2;
+    margin: 0;
+    font-weight: bold;
+    border-bottom: 1px solid #DCD7C9;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
